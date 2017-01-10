@@ -1,0 +1,11 @@
+# Player Folder #
+#################
+
+player/
+
+# Config & Log Files #
+######################
+
+*.config
+*.log
+*.log.*
